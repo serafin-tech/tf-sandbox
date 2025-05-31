@@ -3,4 +3,6 @@
 set -a; source .env; set +a
 
 terraform init -upgrade
-terraform plan
+terraform apply -auto-approve
+
+jq '.' user_roles.json

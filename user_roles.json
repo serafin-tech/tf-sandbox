@@ -1,1 +1,0 @@
-[{"database":"db_name_1","roles":["role1","role2"],"user":"user_1"},{"database":"db_name_1","roles":["role1","role2"],"user":"user_2"},{"database":"db_name_2","roles":["role1","role2"],"user":"user_3"},{"database":"db_name_2","roles":["role1","role2"],"user":"user_4"}]
