@@ -1,0 +1,24 @@
+---
+key1:
+  sybkey11: value1
+  subkey12: value2
+  subkey13: value3
+key2:
+  subkey21: value4
+  subkey22: value5
+  subkey23: value6
+key3:
+  subkey31: value7
+  subkey32: value8
+  subkey33: value9
+key4:
+  - list_item1
+  - list_item2
+  - list_item3
+key5:
+  - name: item1
+    value: 10
+  - name: item2
+    value: 20
+  - name: item3
+    value: 30

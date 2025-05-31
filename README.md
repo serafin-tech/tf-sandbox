@@ -46,4 +46,6 @@ No modules.
 | <a name="output_db_user_roles_file"></a> [db\_user\_roles\_file](#output\_db\_user\_roles\_file) | n/a |
 | <a name="output_db_users"></a> [db\_users](#output\_db\_users) | n/a |
 | <a name="output_temp_var"></a> [temp\_var](#output\_temp\_var) | n/a |
+| <a name="output_test_map2"></a> [test\_map2](#output\_test\_map2) | n/a |
+| <a name="output_yaml_payload"></a> [yaml\_payload](#output\_yaml\_payload) | n/a |
 <!-- END_TF_DOCS -->
