@@ -39,5 +39,5 @@ terraform.rc
 # Environment variables
 .env
 
-# project files
-user_roles.json
+# Don't lock terraform provider versions
+.terraform.lock.hcl
